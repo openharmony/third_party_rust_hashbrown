@@ -1,0 +1,11 @@
+[
+  {
+    "Name": "hashbrown",
+    "License": "Apache License V2.0, MIT",
+    "License File": "LICENSE-APACHE, LICENSE-MIT",
+    "Version Number": "0.12.3",
+    "Owner": "xuelei3@huawei.com",
+    "Upstream URL": "https://github.com/rust-lang/hashbrown",
+    "Description": "A Rust port of Google's SwissTable hash map."
+  }
+]
